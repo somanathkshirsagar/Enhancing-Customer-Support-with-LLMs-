@@ -1,4 +1,4 @@
-# Enhancing Customer Support with LLMs
+# Enhancing Customer Support with LLMs 
 
 ## Project Overview
 The Langchain project introduces an innovative customer support application that leverages the capabilities of Large Language Models (LLMs) to revolutionize the customer service experience. 
